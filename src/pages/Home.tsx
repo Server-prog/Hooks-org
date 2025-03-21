@@ -7,7 +7,7 @@ function Home () {
         <div className="flex flex-col justify-center h-screen -mt-24">
 
             <div className="flex justify-center">
-                <img src="public/hookslogo.png" alt="img" className="w-[150px] h-[150px]" />
+                <img src="src/assets/hookslogo.png" alt="img" className="w-[150px] h-[150px]" />
             </div>
             <h1 className="text-4xl font-bold text-center mt-10">Hooks na Prática</h1>
             <p className="text-xl text-center mt-5">Aprenda sobre Hooks do React com exemplos práticos</p>

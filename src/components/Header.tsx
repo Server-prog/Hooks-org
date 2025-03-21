@@ -5,7 +5,7 @@ function Header () {
         <header className="p-4 text-white">
             <nav className="container mx-auto flex justify-between items-center">
                 <div className="flex items-center gap-2">
-                    <img src="public/hookslogo.png" alt="logo" className="w-9 h-9" />
+                    <img src="src/assets/hookslogo.png" alt="logo" className="w-9 h-9" />
                     <h1>V.01</h1>
                 </div>
 
